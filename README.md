@@ -4,7 +4,7 @@
 I'm a software engineer who is passionate about making open-source more accessible, and building community. Some technologies I enjoy working with include Html, CSS, Javascript, Angular and lot more.
 
 
-
+<br>
 🔭  I am currently working on Angular, Typescript & Rxjs <br>
 💬  Ask me about javascript, Angular, web accessibility & anything that runs on browser <br>
 🌱  I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
