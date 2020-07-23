@@ -11,6 +11,6 @@ I love contributing to open source in my free time. ❤️
 🌱  &nbsp; I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
 🇮🇳  &nbsp; I am from Mumbai, India.
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 - Tinkering with interactions on <a href="http://codepen.io/akashbijwe/"> Codepen</a> 🎮
 - Sharing updates on <a href="https://www.linkedin.com/in/akashbijwe/">LinkedIn</a> 💼
