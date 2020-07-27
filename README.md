@@ -10,10 +10,12 @@ I love contributing to open source in my free time. ❤️
 💬  &nbsp; Ask me about javascript, Angular, web accessibility & anything that runs on browser <br>
 🌱  &nbsp; I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
 🇮🇳  &nbsp; I am from Mumbai, India.
+<br>
 
 ## Find me around the web 🌎
 - Tinkering with interactions on <a href="http://codepen.io/akashbijwe/"> Codepen</a> 🎮
 - Sharing updates on <a href="https://www.linkedin.com/in/akashbijwe/">LinkedIn</a> 💼
+<br>
 
 ## Skills 🍳 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/Akash-Bijwe.png" style="max-width: 100%">
