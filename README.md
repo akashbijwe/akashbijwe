@@ -15,7 +15,5 @@ I love contributing to open source in my free time. ❤️
 - Tinkering with interactions on <a href="http://codepen.io/akashbijwe/"> Codepen</a> 🎮
 - Sharing updates on <a href="https://www.linkedin.com/in/akashbijwe/">LinkedIn</a> 💼
 
-<br>
-
 ## Skills 🍳 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/Akash-Bijwe.png" style="max-width: 100%">
