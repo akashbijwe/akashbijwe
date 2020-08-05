@@ -1,3 +1,9 @@
+<style>
+  .markdown-body table td{
+    border: 0
+  }
+</style>
+
 # Hi, I'm Akash 👋 👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akash.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
