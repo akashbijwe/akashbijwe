@@ -32,6 +32,7 @@ I love contributing to open source in my free time. ❤️
 
 ## Writing some cool stuffs 📖
 <!-- BLOG-POST-LIST:START -->
+- [Custom Domain for your Github pages](https://medium.com/@akashbijwe/custom-domain-for-your-github-pages-fc4612dd3003?source=rss-11ca86d8c4af------2)
 - [How to create & deploy github.io page for free](https://medium.com/@akashbijwe/how-to-create-deploy-github-io-page-for-free-9e672c8b12d2?source=rss-11ca86d8c4af------2)
 - [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
 <!-- BLOG-POST-LIST:END -->
