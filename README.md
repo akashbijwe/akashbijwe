@@ -29,7 +29,6 @@ I love contributing to open source in my free time. ❤️
               <a href="https://github.com/akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/YnBINs1kJ9hdLN6CU_1YRcjFzeaGmqNsv2e2IWnSFoYxaawH8XYD_M0_P3jTf08QMTKldegYhiJxheGCmroPVt3Dtrj-nPJKjP5RWTcUj_RvXsOQXU1q7GkGDYiam38h4Cg=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/github.png" alt="" style="border-radius:0px;border:0px;"></a>
               <a href="http://medium.com/@akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci6.googleusercontent.com/proxy/c76LWYxVRXaUN73-u7bfX2zhkfJ8j3jeYWrvWcjpnpJL4Bbl1zl8uUDxdHNlPKZ-fQkHep1xImV9u-ymQGPXr6gkheGfkkTgdnZF9k5PCXIkD7oAxYO0t9MKLb6ukKw_tNo=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/medium.png" alt="" style="border-radius:0px;border:0px;"></a>
               
-<br>
 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
 
