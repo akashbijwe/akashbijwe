@@ -32,6 +32,7 @@ I love contributing to open source in my free time. ❤️
 
 ## Writing some cool stuffs 📖
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
