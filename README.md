@@ -1,6 +1,6 @@
 # Hi, I'm Akash 👋 👨🏻‍💻
 
-<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akashbijwe.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akashbijwe2.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
 I'm a software engineer who is passionate about making open-source more accessible, and building community.<br>
 Some technologies I enjoy working with include Html, CSS, Javascript, Angular and lot more.<br>
 I love contributing to open source in my free time. ❤️
