@@ -1,19 +1,19 @@
 # Hi, I'm Akash 👋 👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akashbijwe2.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
-<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro1.jpg" alt="Akash Bijwe - What Do I Do" style="max-width: 100%">
-<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro2.jpg" alt="Akash Bijwe - Introduction" style="max-width: 100%">
-<!-- I'm a software engineer who is passionate about making open-source more accessible, and building community.<br>
+<!--<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro1.jpg" alt="Akash Bijwe - What Do I Do" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro2.jpg" alt="Akash Bijwe - Introduction" style="max-width: 100%">-->
+I'm a software engineer who is passionate about making open-source more accessible, and building community.<br>
 Some technologies I enjoy working with include Html, CSS, Javascript, Angular and lot more.<br>
 I love contributing to open source in my free time. ❤️
-<br><br> -->
-<!--
+<br><br>
+
 🔭  &nbsp; I am currently working on Angular, Typescript & Rxjs <br>
 💬  &nbsp; Ask me about javascript, Angular, web accessibility & anything that runs on browser <br>
 🌱  &nbsp; I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
 🇮🇳  &nbsp; I am from Mumbai, India.
 <br>
--->
+
 ## Skills 🍳 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/Akash-Bijwe.png" style="max-width: 100%">
 <br>
