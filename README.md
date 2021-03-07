@@ -11,7 +11,7 @@ I love contributing to open source in my free time. ❤️
 🔭  &nbsp; I am currently working on Angular, Typescript & Rxjs <br>
 💬  &nbsp; Ask me about javascript, Angular, web accessibility & anything that runs on browser <br>
 🌱  &nbsp; I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
-🇮🇳  &nbsp; I am from Mumbai, India.
+🇮🇳  &nbsp; I am from Pune, India.
 <br>
 
 ## Skills 🍳 
@@ -20,7 +20,6 @@ I love contributing to open source in my free time. ❤️
 
 ## Find me around the web 🌎
 
-<a href="http://www.facebook.com/akash.bijwe" style="color:rgb(17,85,204); width: 40px; display: inline-block;" target="_blank"><img src="https://ci6.googleusercontent.com/proxy/lr4mEgbwLStffR-tRGPaGfv9ec2Peeoamn05dOg-AVm-ax87qzrs8mT98G846F3f-jE6msTtJDhPNgEswwibojBmKyEP52ObOGTSnXw-Zxe2eggR8OliU5Wpz2Hqgwx0PcNbjg=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/facebook.png" style="border-radius:0px;border:0px;"></a>
               <a href="http://www.linkedin.com/in/akashbijwe/" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/Rhpbc4YyA8lplvt9ktAQ082jq86c5-8-DvQmx7lEYM-ohgABk6y1kW2dIHNoefsWvslp5Tqf8rWZNYIFCL0G1qVarqvRcM0UlVfWRCyj18Ai111i-pO6-6fp7xkseYAePegK7w=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/linkedin.png" style="border-radius:0px;border:0px;"></a>
               <a href="http://twitter.com/bijweakash" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/5HcrrQign_L6v3gfn0XR-6VrtyTu4iNkO7lodA4tLevchYzwUurqtPx5R7dlmUH95boxgB3zeMFBviwji5LMGobcVi6W43RYXB-lJHL_jjvBrM7J1PSuYLeXD5bJJq5ogwUq=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/twitter.png" style="border-radius:0px;border:0px;"></a>
               <a href="http://plus.google.com/u/0/+AkashBijwe11" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci3.googleusercontent.com/proxy/Uad2x_Vo6XNWEXz4SxQZUPhVq_YknR8-m7f0C4EtMWABnRPMKOZNHwMh2UIOB0fe-YCrG94_VjignM4OYYwuEoS-kl0BrUgHNrALjmvk6YLx36-aO0zkc3cVBHgdPolDBjTPsAL0=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/googleplus.png" style="border-radius:0px;border:0px;"></a>
