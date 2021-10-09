@@ -10,7 +10,7 @@ I love contributing to open source in my free time. ❤️
 
 🔭  &nbsp; I am currently working on Angular, Typescript & Rxjs <br>
 💬  &nbsp; Ask me about javascript, Angular, web accessibility & anything that runs on browser <br>
-🌱  &nbsp; I’m currently learning Digital Marketing, SEO, Blogging, Web Security <br>
+🌱  &nbsp; I’m currently learning Node JS, Mongo DB, SEO, Blogging & Web Security <br>
 🇮🇳  &nbsp; I am from Pune, India.
 <br>
 
