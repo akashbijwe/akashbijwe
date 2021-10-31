@@ -33,8 +33,6 @@ I love contributing to open source in my free time. ❤️
 - [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
 
 ## Find me around the web 🌎
 <a href="http://www.linkedin.com/in/akashbijwe/" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/Rhpbc4YyA8lplvt9ktAQ082jq86c5-8-DvQmx7lEYM-ohgABk6y1kW2dIHNoefsWvslp5Tqf8rWZNYIFCL0G1qVarqvRcM0UlVfWRCyj18Ai111i-pO6-6fp7xkseYAePegK7w=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/linkedin.png" style="border-radius:0px;border:0px;"></a>
