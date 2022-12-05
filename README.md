@@ -1,8 +1,14 @@
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/1.png" alt="Akash Bijwe - Full stack developer" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/2.png" alt="Akash Bijwe - About me" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/3.png" alt="Akash Bijwe - About my work" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/4.png" alt="Akash Bijwe - Technologies I work on" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/5.png" alt="Akash Bijwe - Contact me" style="max-width: 100%">
+<!--
 # Hi, I'm Akash 👋 👨🏻‍💻
-
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akashbijwe2.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
-<!--<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro1.jpg" alt="Akash Bijwe - What Do I Do" style="max-width: 100%">
-<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro2.jpg" alt="Akash Bijwe - Introduction" style="max-width: 100%">-->
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro1.jpg" alt="Akash Bijwe - What Do I Do" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/intro2.jpg" alt="Akash Bijwe - Introduction" style="max-width: 100%"
+
 I'm a software engineer who is passionate about making open-source more accessible, and building community.<br>
 Some technologies I enjoy working with include Html, CSS, Javascript, Angular and lot more.<br>
 I love contributing to open source in my free time. ❤️
@@ -17,6 +23,17 @@ I love contributing to open source in my free time. ❤️
 ## Skills 🍳 
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/Akash-Bijwe.png" style="max-width: 100%">
 <br>
+-->
+
+## Writing some cool stuffs 📖
+<!-- BLOG-POST-LIST:START -->
+- [Javascript interview logical questions -Very Easy](https://medium.com/@akashbijwe/javascript-interview-logical-questions-very-easy-9a84023c0667?source=rss-11ca86d8c4af------2)
+- [Deploy Angular app to Firebase Hosting](https://medium.com/@akashbijwe/deploy-angular-app-to-firebase-hosting-91b5c34e85f8?source=rss-11ca86d8c4af------2)
+- [Custom Domain for your Github pages](https://medium.com/@akashbijwe/custom-domain-for-your-github-pages-fc4612dd3003?source=rss-11ca86d8c4af------2)
+- [How to create & deploy github.io page for free](https://medium.com/@akashbijwe/how-to-create-deploy-github-io-page-for-free-9e672c8b12d2?source=rss-11ca86d8c4af------2)
+- [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
+<!-- BLOG-POST-LIST:END -->
+
 
 ## Find me around the web 🌎
 <a href="http://www.linkedin.com/in/akashbijwe/" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/Rhpbc4YyA8lplvt9ktAQ082jq86c5-8-DvQmx7lEYM-ohgABk6y1kW2dIHNoefsWvslp5Tqf8rWZNYIFCL0G1qVarqvRcM0UlVfWRCyj18Ai111i-pO6-6fp7xkseYAePegK7w=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/linkedin.png" style="border-radius:0px;border:0px;"></a>
@@ -28,15 +45,7 @@ I love contributing to open source in my free time. ❤️
               <a href="http://stackoverflow.com/users/8179744/akash-bijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci3.googleusercontent.com/proxy/ISHnxnVn-ZPahkpurjddxndzdwAAPR2v4J5KWbAk91Z7QG0RcvupiOpYDgzVr2ccrfFqMnkUGs5bYzKpnBdXjWKxgQs4kmLc4vilu1idgz0qLRZnKTuRFxcxBKjGv41D4XJtZGRuJeLj=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/stackoverflow.png" style="border-radius:0px;border:0px;"></a>
               <a href="https://github.com/akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/YnBINs1kJ9hdLN6CU_1YRcjFzeaGmqNsv2e2IWnSFoYxaawH8XYD_M0_P3jTf08QMTKldegYhiJxheGCmroPVt3Dtrj-nPJKjP5RWTcUj_RvXsOQXU1q7GkGDYiam38h4Cg=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/github.png" alt="" style="border-radius:0px;border:0px;"></a>
               <a href="http://medium.com/@akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://ci6.googleusercontent.com/proxy/c76LWYxVRXaUN73-u7bfX2zhkfJ8j3jeYWrvWcjpnpJL4Bbl1zl8uUDxdHNlPKZ-fQkHep1xImV9u-ymQGPXr6gkheGfkkTgdnZF9k5PCXIkD7oAxYO0t9MKLb6ukKw_tNo=s0-d-e1-ft#https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/medium.png" alt="" style="border-radius:0px;border:0px;"></a>
-<br><br>
-
-## Writing some cool stuffs 📖
-<!-- BLOG-POST-LIST:START -->
-- [Javascript interview logical questions -Very Easy](https://medium.com/@akashbijwe/javascript-interview-logical-questions-very-easy-9a84023c0667?source=rss-11ca86d8c4af------2)
-- [Deploy Angular app to Firebase Hosting](https://medium.com/@akashbijwe/deploy-angular-app-to-firebase-hosting-91b5c34e85f8?source=rss-11ca86d8c4af------2)
-- [Custom Domain for your Github pages](https://medium.com/@akashbijwe/custom-domain-for-your-github-pages-fc4612dd3003?source=rss-11ca86d8c4af------2)
-- [How to create & deploy github.io page for free](https://medium.com/@akashbijwe/how-to-create-deploy-github-io-page-for-free-9e672c8b12d2?source=rss-11ca86d8c4af------2)
-- [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
-<!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
+
+
