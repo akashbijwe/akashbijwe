@@ -40,6 +40,6 @@ I love contributing to open source in my free time. ❤️
 <a href="http://twitter.com/bijweakash" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/twitter.png" alt="Twitter" style="border-radius:0px;border:0px;"></a>
               <a href="http://about.me/akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/aboutme.png" alt="About Me" style="border-radius:0px;border:0px;"></a>
               <a href="http://stackoverflow.com/users/8179744/akash-bijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/stackoverflow.png" alt="Stackoverflow" style="border-radius:0px;border:0px;"></a>
-              <a href="https://github.com/akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/github.png" alt="Github" style="border-radius:0px;border:0px;"></a>
+              <a href="https://akashbijwe.github.io/" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/github.png" alt="Github" style="border-radius:0px;border:0px;"></a>
 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
