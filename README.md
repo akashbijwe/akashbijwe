@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/3.png" alt="Akash Bijwe - About my work" style="max-width: 100%">
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/4.png" alt="Akash Bijwe - Technologies I work on" style="max-width: 100%">
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/5.png" alt="Akash Bijwe - Contact me" style="max-width: 100%">
+<img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/giphy.gif" alt="Akash Bijwe - Contact me" style="max-width: 100px">
 <!--
 # Hi, I'm Akash 👋 👨🏻‍💻
 <img src="https://raw.githubusercontent.com/akashbijwe/akashbijwe/master/akashbijwe2.png" alt="Akash Bijwe - Front end developer, Senior Software engineer" style="max-width: 100%">
