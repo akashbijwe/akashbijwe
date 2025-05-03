@@ -25,7 +25,7 @@ I love contributing to open source in my free time. ❤️
 <br>
 -->
 
-## Writing some cool stuffs 📖
+## My Blog Posts 📖
 <!-- BLOG-POST-LIST:START -->
 - [Deploy React app for free](https://akashbijwe.medium.com/deploy-react-app-for-free-1a6932f0bfdf)
 - [Javascript interview logical questions -Very Easy](https://medium.com/@akashbijwe/javascript-interview-logical-questions-very-easy-9a84023c0667?source=rss-11ca86d8c4af------2)
@@ -35,12 +35,16 @@ I love contributing to open source in my free time. ❤️
 - [How to create a Github profile readme](https://medium.com/@akashbijwe/how-to-create-a-github-profile-readme-7b33a0cc7ef8?source=rss-11ca86d8c4af------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Github Status 📊
 
-## Find me around the web 🌎
-<a href="http://medium.com/@akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/medium.png" alt="Medium" style="border-radius:0px;border:0px;"></a>
-<a href="http://twitter.com/bijweakash" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/twitter.png" alt="Twitter" style="border-radius:0px;border:0px;"></a>
-              <a href="http://about.me/akashbijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/aboutme.png" alt="About Me" style="border-radius:0px;border:0px;"></a>
-              <a href="http://stackoverflow.com/users/8179744/akash-bijwe" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/stackoverflow.png" alt="Stackoverflow" style="border-radius:0px;border:0px;"></a>
-              <a href="https://akashbijwe.github.io/" style="color:rgb(17,85,204)" target="_blank"><img src="https://s3.amazonaws.com/images.wisestamp.com/social_icons/square/github.png" alt="Github" style="border-radius:0px;border:0px;"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashbijwe&show_icons=true&theme=dark&locale=en" alt="Akash Bijwe Github Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashbijwe&theme=dark&" alt="Akash Bijwe Github Stats" />
 
+## Explore My Work 🌎
+<b>Curious about my work or ready to build something amazing together?</b> <br />
+Let’s connect! 🚀 <br />
+Hit a click to my <a href="https://akashbijwe.github.io/" style="color:rgb(17,85,204); text-decoration: none;" target="_blank">portfolio</a> and let’s turn ideas into reality or just reach out if you need a hand.
+
+
+## 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
