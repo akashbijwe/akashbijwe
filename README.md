@@ -45,6 +45,8 @@ I love contributing to open source in my free time. ❤️
 Let’s connect! 🚀 <br />
 Hit a click to my <a href="https://akashbijwe.github.io/" style="color:rgb(17,85,204); text-decoration: none;" target="_blank">portfolio</a> and let’s turn ideas into reality or just reach out if you need a hand.
 
+## Daily.dev
+<a href="https://app.daily.dev/akashbijwe"><img src="https://api.daily.dev/devcards/v2/LUMbBkKXuusYTIL3iIO7J.png?r=1ek&type=wide" width="652" alt="Akash Bijwe's Dev Card"/></a>
 
 ## 
 ![](https://komarev.com/ghpvc/?username=akashbijwe&color=green)
